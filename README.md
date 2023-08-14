@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-End**
 
-- 🤝 I’m looking for help with **JavaScriptQuiz and Poster**
+- 🤝 I’m looking for help with **JavaScriptQuiz**
 
 - 💬 Ask me about **Computer Science**
 
